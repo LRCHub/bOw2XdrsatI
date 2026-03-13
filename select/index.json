@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アンデルセン",
+  "base_artist": "harha",
+  "createdAt": "2026-03-13T22:38:00.614679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンデルセン",
+      "artist": "harha",
+      "has_synced": false,
+      "path": "select/01_アンデルセン_harha.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンデルセン",
+      "artist": "harha",
+      "has_synced": false,
+      "path": "select/pl_01_アンデルセン_harha.txt"
+    }
+  ]
+}
